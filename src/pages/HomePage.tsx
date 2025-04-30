@@ -1,5 +1,5 @@
 import React from 'react';
- 
+  
 const HomePage: React.FC = () => (
   <main style={{ textAlign: 'center', padding: '2rem' }}>
     <h1 style={{ color: '#b71c1c' }}>Welcome to Blood Link</h1>

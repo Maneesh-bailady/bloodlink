@@ -1,5 +1,5 @@
 import React from 'react';
- 
+  
 const LoginPage: React.FC = () => (
   <main style={{ maxWidth: 400, margin: '2rem auto', padding: '2rem', background: '#fff3f3', borderRadius: 8 }}>
     <h2 style={{ color: '#b71c1c' }}>Login</h2>

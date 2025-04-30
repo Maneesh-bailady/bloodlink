@@ -6,4 +6,4 @@ This project is a modern blood donation website called 'Blood Link'.
 - Use React + TypeScript (Vite) for frontend.
 - Backend and database will be added later.
 - Focus on clean, accessible, and visually engaging design.
- 
+  
